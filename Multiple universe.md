@@ -1,4 +1,4 @@
-Yes. If we take your \(\tau\) seriously as a **non-observable ordering parameter between universes**, then we can make the model much cleaner.
+If we take your \(\tau\) seriously as a **non-observable ordering parameter between universes**, then we can make the model much cleaner.
 
 The key is: **do not make \(\tau\) another physical time coordinate inside spacetime.** Let every universe have its own observable \(t_n\), while \(\tau\) labels the succession/relationship of whole universe states. Your "pure consciousness between each" can be represented mathematically as a **meta-state**, but consciousness itself would be an additional philosophical postulate, not something physics can currently derive.
 
