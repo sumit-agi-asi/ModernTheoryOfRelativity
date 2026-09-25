@@ -731,5 +731,7 @@ That is the end-to-end mathematical structure I'd pursue.
 [2]: https://asd.gsfc.nasa.gov/Volker.Beckmann/physics316/download/PHYS316_tenthings.pdf?utm_source=chatgpt.com "Extragalactic Astronomy and Cosmology"
 [3]: https://lambda.gsfc.nasa.gov/education/graphic_history/?utm_source=chatgpt.com "LAMBDA - Graphic History to Cosmology Introduction"
 
-** Modern Theory of Relativity **
+** Modern Theory of Relativity **  
+
+
 **&copy; Technocraft Physics 2026. All Rights Reserved.**
